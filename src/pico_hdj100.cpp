@@ -30,6 +30,7 @@ bool shutter_coil_2_2;
 
 /**
  * Program for Pi Pico that does Toyota Landcruiser HDJ100 specific things.
+ * Mechanism 1: Emulate shutter (venturi) stepper motor limit switch so shutter can be removed.
  */
 int main()
 {
