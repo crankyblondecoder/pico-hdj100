@@ -1,3 +1,0 @@
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir

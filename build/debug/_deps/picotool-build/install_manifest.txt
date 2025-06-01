@@ -1,7 +1,0 @@
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/picotool
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/picotoolTargets.cmake
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/picotoolTargets-release.cmake
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/picotoolConfig.cmake
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/picotoolConfigVersion.cmake
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/enc_bootloader.elf
-/home/stodas/devel/repo/pico-hdj100/build/debug/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -11,6 +11,7 @@ pico_sdk_init()
 
 # Add extra source files here.
 add_executable(pico_hdj100
+	pico_hdj100.cpp
 	PicoSwitch.cpp)
 
 # Set to 1 to enable.
