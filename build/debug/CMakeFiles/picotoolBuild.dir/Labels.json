@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/stodas/devel/repo/pico-hdj100/build/debug/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

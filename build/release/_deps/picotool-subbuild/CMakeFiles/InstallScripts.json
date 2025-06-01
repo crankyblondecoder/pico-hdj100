@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/stodas/devel/repo/pico-hdj100/build/release/_deps/picotool-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
