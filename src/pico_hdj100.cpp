@@ -4,6 +4,14 @@
 #include "hardware/regs/intctrl.h"
 #include "pico/time.h"
 
+// Shutter (venturi) sequence for rotation away from limit switch.
+// This is looking at the gear and the rotation is clockwise. The plug is facing you (attachment clip is down).
+// Each full coil has a resistance of 38ohms.
+// Step 1: coil 1 - 1 (Top left contact)
+// Step 2: coil 2 - 1 (Bottom left contact)
+// Step 3: coil 1 - 2 (Top right contact)
+// Step 4: coil 2 - 2 (Bottom right conact)
+
 /** The GPIO pin used for shutter (venturi) unipolar stepper - coil 1 - section 1. */
 #define SHUTTER_COIL_1_1_GPIO 2
 
